@@ -7,3 +7,6 @@ Chemistry, PhD
 Data Scientist @ Toyota Financial Services
 
 ### Projects
+
+* Facts International
+* Amadari
