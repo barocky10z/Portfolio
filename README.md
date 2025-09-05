@@ -4,9 +4,9 @@
 Chemistry, ICT, Data Science for Business, PhD
 
 ### Work Experience
-Data Scientist @ Amdari, Canada \n
-Data Scientist @ Facts International \n
-Data Scientist @ NCL  Smart Hub Lanarkshire \n
+- Data Scientist @ Amdari, Canada 
+- Data Scientist @ Facts International 
+- Data Scientist @ NCL  Smart Hub Lanarkshire 
 
 ### Projects
 
