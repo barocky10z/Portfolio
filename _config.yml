@@ -1,5 +1,21 @@
 title: Bassey Orok, PhD
 logo: assets/img/etteba.png
-#description: text below image
+description: Welcome to my page
 show downloads: true
 theme: jekyll-theme-minimal
+
+#title → site title
+
+#description → site description
+
+#theme → theme name
+
+#baseurl → site subpath
+
+#url → base site URL
+
+#plugins → Jekyll plugins
+
+#markdown → markdown engine (kramdown)
+
+#collections → custom content collections
