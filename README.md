@@ -1,10 +1,12 @@
 # Data Scientist
 
 ### Education
-Chemistry, PhD
+Chemistry, ICT, Data Science for Business, PhD
 
 ### Work Experience
-Data Scientist @ Toyota Financial Services
+Data Scientist @ Amdari, Canada
+Data Scientist @ Facts International
+Data Scientist @ NCL  Smart Hub Lanarkshire 
 
 ### Projects
 
