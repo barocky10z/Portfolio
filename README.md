@@ -1,17 +1,17 @@
 # Data Scientist
 
 
-#### Technical Skills: Python, AWS, SQL, 
+## Technical Skills: Python, AWS, SQL, 
 
-### Education
+## Education
 Chemistry, ICT, Data Science for Business, PhD
 
-### Work Experience
+## Work Experience
 - Data Scientist @ Amdari, Canada 
 - Data Scientist @ Facts International 
 - Data Scientist @ NCL  Smart Hub Lanarkshire 
 
-### Projects
+## Projects
 
 [](assets/img/xxx.jpeg)* Facts International
   - Include Amdari website projects here
@@ -20,7 +20,7 @@ Chemistry, ICT, Data Science for Business, PhD
    - Consumer Electronics Sales Forcasting
    - Pesrsonalized Insurance  Recommendation System (OptiSecure)
    - AI - Powered Cervical Histopathology Triage
-## Projects
+### Sample Projects
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
