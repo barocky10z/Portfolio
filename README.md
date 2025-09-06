@@ -1,5 +1,8 @@
 # Data Scientist
 
+
+#### Technical Skills: Python, AWS, SQL, 
+
 ### Education
 Chemistry, ICT, Data Science for Business, PhD
 
