@@ -4,9 +4,9 @@ logo: assets/img/etteba.png
 #show downloads: true
 theme: jekyll-theme-minimal
 #theme: minima   # or your current theme
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+  #- jekyll-feed
+  #- jekyll-seo-tag
 
 # Make sure Jekyll includes your CSS
 include:
