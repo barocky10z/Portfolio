@@ -12,3 +12,7 @@ Chemistry, ICT, Data Science for Business, PhD
 
 * Facts International
 * Amadari
+   - Predicting Customer Churn
+   - Consumer Electronics Sales Forcasting
+   - Pesrsonalized Insurance  Recommendation System (OptiSecure)
+   - AI - Powered Cervical Histopathology Triage
