@@ -9,7 +9,7 @@ theme: jekyll-theme-minimal
   #- jekyll-seo-tag
 
 # Make sure Jekyll includes your CSS
-include: assets/css/style.css
+# include: assets/css/style.css
 
 
 #title → site title
