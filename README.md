@@ -11,6 +11,7 @@ Chemistry, ICT, Data Science for Business, PhD
 ### Projects
 
 * Facts International
+  - Include Amdari website projects here
 * Amadari
    - Predicting Customer Churn
    - Consumer Electronics Sales Forcasting
