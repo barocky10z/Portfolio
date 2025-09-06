@@ -3,27 +3,3 @@ logo: assets/img/etteba.png
 #description: Welcome to my page
 #show downloads: true
 theme: jekyll-theme-minimal
-#theme: minima   # or your current theme
-#plugins:
-  #- jekyll-feed
-  #- jekyll-seo-tag
-
-# Make sure Jekyll includes your CSS
-# include: assets/css/style.css
-
-
-#title → site title
-
-#description → site description
-
-#theme → theme name
-
-#baseurl → site subpath
-
-#url → base site URL
-
-#plugins → Jekyll plugins
-
-#markdown → markdown engine (kramdown)
-
-#collections → custom content collections
