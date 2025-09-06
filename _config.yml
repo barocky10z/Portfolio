@@ -2,7 +2,7 @@ title: Bassey Orok, PhD
 logo: assets/img/etteba.png
 #description: Welcome to my page
 #show downloads: true
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 #theme: minima   # or your current theme
 #plugins:
   #- jekyll-feed
