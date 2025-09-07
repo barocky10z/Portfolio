@@ -1,17 +1,20 @@
-# Data Scientist
+## ABOUT ME
+Data Scientist | ML Enthusiats | 
+Bio - bbcdkjcnasncklasnkmmdl;smal;dl;asl;s;ldsla;mkclsmadmxsam vxhadhsadjksadshajhdsdknsakcn ksankcnsakxnklsanxknaskxnksxksaxksx
+hgdvhcbasjcnsancksaklclmsalcml;sm;LCMLmlcmlnjcbasjknxcmSKCNKsmxclMAXLAmxlaMXLMAmxlaM;LKaschs agcvwhdxsac hdbcbjsdnkz c vsdhcbkasnc
+dhgcvhsdbjskandknsalcnlasdbjcnkasmclmsakncbjsnkxnsknxksancnxKLCBKSAJLMlxmAMSX;LK;lM;SMasmkslcbehbguedknmlmsxlaMXLKWBDKMSKQNSQS
+SADHVJSNDakxnkAXNaxAXanxkamadevclkdnLMXa chjasdwsj  qks;l  qkjbdjhwbksdl  qsjlq  nsliq  sq  lksnkl  QMSqklndskBDBWSGVDGHSAJSNKJabdjwhgds
+
+### TECHNICAL SKILLS
+Python, AWS, SQL, 
 
 
-## Technical Skills: Python, AWS, SQL, 
-
-## Education
-Chemistry, ICT, Data Science for Business, PhD
-
-## Work Experience
+### Work Experience
 - Data Scientist @ Amdari, Canada 
 - Data Scientist @ Facts International 
 - Data Scientist @ NCL  Smart Hub Lanarkshire 
 
-## Projects
+## MY PROJECTS
 
 [](assets/img/xxx.jpeg)* Facts International
   - Include Amdari website projects here
